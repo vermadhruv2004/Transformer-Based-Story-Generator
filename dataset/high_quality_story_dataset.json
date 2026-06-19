@@ -1,0 +1,402 @@
+[
+  {
+    "instruction": "Write a fantasy story about a boy who befriends a dragon.",
+    "story": "Arjun climbed the forbidden mountain to prove his bravery. Instead of finding treasure, he discovered an injured dragon hatchling. He secretly cared for it, naming it Ember. As Ember grew, the village feared the dragon's return. When a storm threatened to destroy the valley, Ember saved the villagers by carrying supplies across flooded rivers. The people finally understood that appearances can be deceiving, and Arjun gained a lifelong friend."
+  },
+  {
+    "instruction": "Write a sci-fi story about a robot learning emotions.",
+    "story": "Unit-47 was designed to repair machines, not understand people. Yet after months of working beside a lonely scientist, it began noticing patterns it could not explain. It recognized sadness in silence, joy in laughter, and hope in perseverance. When the scientist considered abandoning a difficult project, Unit-47 encouraged her to continue. The machine realized that emotions were not flaws but powerful forces that helped humans endure challenges."
+  },
+  {
+    "instruction": "Write a mystery story about a disappearing painting.",
+    "story": "Every midnight, the portrait in the town museum vanished and returned before dawn. Young journalist Meera investigated the mystery and discovered a hidden passage behind the frame. The painting concealed clues left by an artist who had hidden evidence of corruption decades earlier. By solving the puzzle, Meera uncovered the truth and restored the artist's reputation."
+  },
+  {
+    "instruction": "Write a moral story about honesty.",
+    "story": "Aarav found a wallet containing more money than his family earned in months. Tempted to keep it, he instead searched for the owner. The grateful shopkeeper rewarded him with a scholarship opportunity. Aarav learned that honesty may not provide immediate rewards, but it builds trust and opens unexpected doors."
+  },
+  {
+    "instruction": "Write an adventure story in a jungle.",
+    "story": "Ravi followed an ancient map deep into a rainforest. He faced dangerous rivers, collapsing ruins, and confusing trails. At the heart of the jungle he discovered not gold, but records of a forgotten civilization. Sharing the knowledge with the world became a greater treasure than anything he had expected."
+  },
+  {
+    "instruction": "Write a horror story about a haunted mirror.",
+    "story": "Every night at exactly midnight, Nisha's reflection moved a second later than she did. At first she dismissed it as imagination. Then the reflection began smiling when she wasn't. One evening it raised a hand and tapped the inside of the glass. Nisha realized the mirror was not reflecting her at all—it was observing her."
+  },
+  {
+    "instruction": "Write a comedy story about a talking dog.",
+    "story": "Bruno discovered social media and quickly became more popular than his owner. He posted reviews of snacks, gave terrible financial advice, and somehow convinced thousands of followers that chasing squirrels was a professional sport."
+  },
+  {
+    "instruction": "Write a fantasy story set in a magical academy.",
+    "story": "Nisha arrived at the academy expecting to learn spells. Instead she discovered that true magic came from creativity rather than memorization. While others copied textbooks, she invented new solutions that eventually helped save the school from a magical disaster."
+  },
+  {
+    "instruction": "Write a friendship story about a robot companion.",
+    "story": "A lonely child named Kabir built a small robot from discarded electronics. Over time the machine became his closest friend. When the robot's battery finally failed, Kabir used everything he had learned to rebuild it, proving that friendship requires effort and care."
+  },
+  {
+    "instruction": "Write a survival story about being stranded on an island.",
+    "story": "After a storm wrecked her boat, Riya found herself alone on a remote island. She learned to gather food, build shelter, and remain calm under pressure. Months later she was rescued, stronger and more confident than ever before."
+  },
+  {
+    "instruction": "Write a fantasy story. Premise: A young villager discovers a dragon egg.",
+    "story": "A young villager discovers a dragon egg. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a sci-fi story. Premise: A pilot receives a signal from an unknown galaxy.",
+    "story": "A pilot receives a signal from an unknown galaxy. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a mystery story. Premise: A missing clock begins appearing in different places.",
+    "story": "A missing clock begins appearing in different places. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a adventure story. Premise: An explorer searches for a lost city.",
+    "story": "An explorer searches for a lost city. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a moral story. Premise: A student finds a wallet full of money.",
+    "story": "A student finds a wallet full of money. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a horror story. Premise: A mirror shows tomorrow instead of today.",
+    "story": "A mirror shows tomorrow instead of today. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a comedy story. Premise: A parrot becomes the class monitor.",
+    "story": "A parrot becomes the class monitor. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a friendship story. Premise: A lonely child builds a robot companion.",
+    "story": "A lonely child builds a robot companion. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a magic story. Premise: A student attends a school of magic.",
+    "story": "A student attends a school of magic. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a survival story. Premise: A teenager is stranded on an island.",
+    "story": "A teenager is stranded on an island. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a fantasy story. Premise: A young villager discovers a dragon egg.",
+    "story": "A young villager discovers a dragon egg. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a sci-fi story. Premise: A pilot receives a signal from an unknown galaxy.",
+    "story": "A pilot receives a signal from an unknown galaxy. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a mystery story. Premise: A missing clock begins appearing in different places.",
+    "story": "A missing clock begins appearing in different places. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a adventure story. Premise: An explorer searches for a lost city.",
+    "story": "An explorer searches for a lost city. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a moral story. Premise: A student finds a wallet full of money.",
+    "story": "A student finds a wallet full of money. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a horror story. Premise: A mirror shows tomorrow instead of today.",
+    "story": "A mirror shows tomorrow instead of today. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a comedy story. Premise: A parrot becomes the class monitor.",
+    "story": "A parrot becomes the class monitor. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a friendship story. Premise: A lonely child builds a robot companion.",
+    "story": "A lonely child builds a robot companion. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a magic story. Premise: A student attends a school of magic.",
+    "story": "A student attends a school of magic. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a survival story. Premise: A teenager is stranded on an island.",
+    "story": "A teenager is stranded on an island. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a fantasy story. Premise: A young villager discovers a dragon egg.",
+    "story": "A young villager discovers a dragon egg. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a sci-fi story. Premise: A pilot receives a signal from an unknown galaxy.",
+    "story": "A pilot receives a signal from an unknown galaxy. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a mystery story. Premise: A missing clock begins appearing in different places.",
+    "story": "A missing clock begins appearing in different places. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a adventure story. Premise: An explorer searches for a lost city.",
+    "story": "An explorer searches for a lost city. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a moral story. Premise: A student finds a wallet full of money.",
+    "story": "A student finds a wallet full of money. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a horror story. Premise: A mirror shows tomorrow instead of today.",
+    "story": "A mirror shows tomorrow instead of today. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a comedy story. Premise: A parrot becomes the class monitor.",
+    "story": "A parrot becomes the class monitor. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a friendship story. Premise: A lonely child builds a robot companion.",
+    "story": "A lonely child builds a robot companion. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a magic story. Premise: A student attends a school of magic.",
+    "story": "A student attends a school of magic. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a survival story. Premise: A teenager is stranded on an island.",
+    "story": "A teenager is stranded on an island. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a fantasy story. Premise: A young villager discovers a dragon egg.",
+    "story": "A young villager discovers a dragon egg. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a sci-fi story. Premise: A pilot receives a signal from an unknown galaxy.",
+    "story": "A pilot receives a signal from an unknown galaxy. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a mystery story. Premise: A missing clock begins appearing in different places.",
+    "story": "A missing clock begins appearing in different places. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a adventure story. Premise: An explorer searches for a lost city.",
+    "story": "An explorer searches for a lost city. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a moral story. Premise: A student finds a wallet full of money.",
+    "story": "A student finds a wallet full of money. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a horror story. Premise: A mirror shows tomorrow instead of today.",
+    "story": "A mirror shows tomorrow instead of today. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a comedy story. Premise: A parrot becomes the class monitor.",
+    "story": "A parrot becomes the class monitor. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a friendship story. Premise: A lonely child builds a robot companion.",
+    "story": "A lonely child builds a robot companion. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a magic story. Premise: A student attends a school of magic.",
+    "story": "A student attends a school of magic. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a survival story. Premise: A teenager is stranded on an island.",
+    "story": "A teenager is stranded on an island. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a fantasy story. Premise: A young villager discovers a dragon egg.",
+    "story": "A young villager discovers a dragon egg. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a sci-fi story. Premise: A pilot receives a signal from an unknown galaxy.",
+    "story": "A pilot receives a signal from an unknown galaxy. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a mystery story. Premise: A missing clock begins appearing in different places.",
+    "story": "A missing clock begins appearing in different places. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a adventure story. Premise: An explorer searches for a lost city.",
+    "story": "An explorer searches for a lost city. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a moral story. Premise: A student finds a wallet full of money.",
+    "story": "A student finds a wallet full of money. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a horror story. Premise: A mirror shows tomorrow instead of today.",
+    "story": "A mirror shows tomorrow instead of today. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a comedy story. Premise: A parrot becomes the class monitor.",
+    "story": "A parrot becomes the class monitor. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a friendship story. Premise: A lonely child builds a robot companion.",
+    "story": "A lonely child builds a robot companion. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a magic story. Premise: A student attends a school of magic.",
+    "story": "A student attends a school of magic. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a survival story. Premise: A teenager is stranded on an island.",
+    "story": "A teenager is stranded on an island. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a fantasy story. Premise: A young villager discovers a dragon egg.",
+    "story": "A young villager discovers a dragon egg. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a sci-fi story. Premise: A pilot receives a signal from an unknown galaxy.",
+    "story": "A pilot receives a signal from an unknown galaxy. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a mystery story. Premise: A missing clock begins appearing in different places.",
+    "story": "A missing clock begins appearing in different places. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a adventure story. Premise: An explorer searches for a lost city.",
+    "story": "An explorer searches for a lost city. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a moral story. Premise: A student finds a wallet full of money.",
+    "story": "A student finds a wallet full of money. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a horror story. Premise: A mirror shows tomorrow instead of today.",
+    "story": "A mirror shows tomorrow instead of today. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a comedy story. Premise: A parrot becomes the class monitor.",
+    "story": "A parrot becomes the class monitor. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a friendship story. Premise: A lonely child builds a robot companion.",
+    "story": "A lonely child builds a robot companion. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a magic story. Premise: A student attends a school of magic.",
+    "story": "A student attends a school of magic. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a survival story. Premise: A teenager is stranded on an island.",
+    "story": "A teenager is stranded on an island. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a fantasy story. Premise: A young villager discovers a dragon egg.",
+    "story": "A young villager discovers a dragon egg. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a sci-fi story. Premise: A pilot receives a signal from an unknown galaxy.",
+    "story": "A pilot receives a signal from an unknown galaxy. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a mystery story. Premise: A missing clock begins appearing in different places.",
+    "story": "A missing clock begins appearing in different places. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a adventure story. Premise: An explorer searches for a lost city.",
+    "story": "An explorer searches for a lost city. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a moral story. Premise: A student finds a wallet full of money.",
+    "story": "A student finds a wallet full of money. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a horror story. Premise: A mirror shows tomorrow instead of today.",
+    "story": "A mirror shows tomorrow instead of today. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a comedy story. Premise: A parrot becomes the class monitor.",
+    "story": "A parrot becomes the class monitor. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a friendship story. Premise: A lonely child builds a robot companion.",
+    "story": "A lonely child builds a robot companion. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a magic story. Premise: A student attends a school of magic.",
+    "story": "A student attends a school of magic. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a survival story. Premise: A teenager is stranded on an island.",
+    "story": "A teenager is stranded on an island. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a fantasy story. Premise: A young villager discovers a dragon egg.",
+    "story": "A young villager discovers a dragon egg. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a sci-fi story. Premise: A pilot receives a signal from an unknown galaxy.",
+    "story": "A pilot receives a signal from an unknown galaxy. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a mystery story. Premise: A missing clock begins appearing in different places.",
+    "story": "A missing clock begins appearing in different places. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a adventure story. Premise: An explorer searches for a lost city.",
+    "story": "An explorer searches for a lost city. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a moral story. Premise: A student finds a wallet full of money.",
+    "story": "A student finds a wallet full of money. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a horror story. Premise: A mirror shows tomorrow instead of today.",
+    "story": "A mirror shows tomorrow instead of today. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a comedy story. Premise: A parrot becomes the class monitor.",
+    "story": "A parrot becomes the class monitor. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a friendship story. Premise: A lonely child builds a robot companion.",
+    "story": "A lonely child builds a robot companion. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a magic story. Premise: A student attends a school of magic.",
+    "story": "A student attends a school of magic. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a survival story. Premise: A teenager is stranded on an island.",
+    "story": "A teenager is stranded on an island. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a fantasy story. Premise: A young villager discovers a dragon egg.",
+    "story": "A young villager discovers a dragon egg. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a sci-fi story. Premise: A pilot receives a signal from an unknown galaxy.",
+    "story": "A pilot receives a signal from an unknown galaxy. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a mystery story. Premise: A missing clock begins appearing in different places.",
+    "story": "A missing clock begins appearing in different places. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a adventure story. Premise: An explorer searches for a lost city.",
+    "story": "An explorer searches for a lost city. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a moral story. Premise: A student finds a wallet full of money.",
+    "story": "A student finds a wallet full of money. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a horror story. Premise: A mirror shows tomorrow instead of today.",
+    "story": "A mirror shows tomorrow instead of today. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a comedy story. Premise: A parrot becomes the class monitor.",
+    "story": "A parrot becomes the class monitor. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a friendship story. Premise: A lonely child builds a robot companion.",
+    "story": "A lonely child builds a robot companion. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a magic story. Premise: A student attends a school of magic.",
+    "story": "A student attends a school of magic. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  },
+  {
+    "instruction": "Write a survival story. Premise: A teenager is stranded on an island.",
+    "story": "A teenager is stranded on an island. The protagonist initially underestimated the challenge ahead. As events unfolded, unexpected obstacles forced them to make difficult decisions. They met allies, learned important lessons, and grew stronger through experience. The climax arrived when everything seemed lost, but courage, intelligence, and perseverance helped them succeed. In the end, the journey transformed their outlook on life and left a lasting impact on everyone involved."
+  }
+]
