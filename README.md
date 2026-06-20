@@ -2,6 +2,9 @@
 
 An AI-powered Story Generator that creates coherent, creative, and structured stories from user prompts. The project fine-tunes a transformer-based language model on a custom instruction-response dataset containing stories from multiple genres such as fantasy, science fiction, adventure, and moral tales.
 
+🚀 Live Demo
+
+🔗 Hugging Face Space: [https://huggingface.co/spaces/vermadhruv/ai-story-generator]
 
 
 ## 📌 Project Overview
