@@ -1,3 +1,4 @@
+
 # 📖 AI Story Generator
 
 An AI-powered Story Generator that creates coherent, creative, and structured stories from user prompts. The project fine-tunes a transformer-based language model on a custom instruction-response dataset containing stories from multiple genres such as fantasy, science fiction, adventure, and moral tales.
